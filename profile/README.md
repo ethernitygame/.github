@@ -37,6 +37,6 @@ We're excited to announce our fundraising roadmap, which includes several rounds
 
 Dive into the future of gaming with Ethernity. Explore our resources, including the Pitch Deck, Executive Summary, Tokenomics, White Paper, Game Trailer, and Demo, to learn more about our vision and the unique gaming experience we offer.
 
-[Executive Summary](https://example.com) | [Tokenomics](https://docs.google.com/spreadsheets/d/11Dw9MRobEiWNkfMneFH2xKJMe-JVVcZuZdIf1kTwgSc/edit#gid=0) | [White Paper](https://example.com) | [Game Trailer](https://www.youtube.com/watch?v=QkMLtXndIiE) | [Game Demo](https://example.com)
+[Website](https://ethernity.app) | [White Paper](https://example.com) | [Game Trailer](https://www.youtube.com/watch?v=QkMLtXndIiE) | [Game Demo](https://example.com)
 
 Join us in redefining gaming with Ethernity, where every player's action shapes the future of the game world.
