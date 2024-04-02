@@ -18,7 +18,6 @@ Ethernity is setting new benchmarks in the gaming industry by integrating cuttin
 
 - Developed the Ethernity game alpha, securing $580,000 in funding.
 - Triumphed in 10 hackathons and reached finalist status for "Best Web3 Game".
-- Filed a patent for AINFT avatars and deployed the Ethernity protocol Layer 1 testnet.
 - Released SDKs for game developers to integrate AINFT avatars and blockchain technology.
 
 ## Partnerships & Collaborations
