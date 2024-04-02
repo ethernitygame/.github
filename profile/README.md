@@ -28,10 +28,6 @@ We've formed strategic partnerships with leading companies and foundations such 
 
 Our team, composed of industry veterans from gaming, AI, blockchain, and entertainment sectors, drives Ethernity's vision and innovation. The advisory team brings additional expertise in marketing, strategy, and development to guide our journey.
 
-## Fundraising
-
-We're excited to announce our fundraising roadmap, which includes several rounds from Pre-Seed to TGE, aiming to raise a maximum of $4,310,000.
-
 ## Join Us in the Revolution
 
 Dive into the future of gaming with Ethernity. Explore our resources, including the Pitch Deck, Executive Summary, Tokenomics, White Paper, Game Trailer, and Demo, to learn more about our vision and the unique gaming experience we offer.
