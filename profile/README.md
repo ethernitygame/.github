@@ -1,5 +1,5 @@
 
-![Etherity-collage](https://github.com/ethernitygame/ethernitygame/assets/19206978/59bfcc6f-fdb6-42fb-ab1b-f6b81b885089)
+![Etherity-collage](https://github.com/ethernitygame/.github/assets/19206978/7ff78b34-b4ae-4eb5-a6a1-1e7011534f75)
 
 # Ethernity: Revolutionizing Gaming with AI and Blockchain
 
