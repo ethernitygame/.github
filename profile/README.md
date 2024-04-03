@@ -17,7 +17,7 @@ Ethernity is setting new benchmarks in the gaming industry by integrating cuttin
 ## Achievements & Milestones
 
 - Developed the Ethernity game alpha.
-- Triumphed in 10 hackathons and reached finalist status for "Best Web3 Game".
+- Triumphed in 10 hackathons and reached finalist status for "Best Web3 Game" in GDWC.
 - Released SDKs for game developers to integrate AINFT avatars and blockchain technology.
 
 ## Partnerships & Collaborations
