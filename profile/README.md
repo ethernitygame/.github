@@ -32,6 +32,6 @@ Our team, composed of industry veterans from gaming, AI, blockchain, and enterta
 
 Dive into the future of gaming with Ethernity. Explore our resources, including the Pitch Deck, Executive Summary, Tokenomics, White Paper, Game Trailer, and Demo, to learn more about our vision and the unique gaming experience we offer.
 
-[Website](https://ethernity.app) | [White Paper](https://example.com) | [Game Trailer](https://www.youtube.com/watch?v=QkMLtXndIiE) | [Game Demo](https://example.com)
+[Website](https://ethernity.app) | [Game Trailer](https://www.youtube.com/watch?v=QkMLtXndIiE) 
 
 Join us in redefining gaming with Ethernity, where every player's action shapes the future of the game world.
